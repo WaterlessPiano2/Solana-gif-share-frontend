@@ -1,3 +1,9 @@
+# Solana-gif-share-smart-contract
+
+Demo : https://gif-portal-starter-project.waterlesspiano2.repl.co/
+
+the front end code : https://github.com/WaterlessPiano2/Solana-gif-share-frontend
+
 ## Running React on Repl.it
 
 [React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
@@ -11,3 +17,4 @@ Using the two in conjunction is one of the fastest ways to build a web app.
 - Edit [App.jsx](#src/App.jsx) and watch it live update!
 
 By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the `.replit` file.
+
