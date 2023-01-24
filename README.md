@@ -2,7 +2,7 @@
 
 Demo : https://gif-portal-starter-project.waterlesspiano2.repl.co/
 
-the front end code : https://github.com/WaterlessPiano2/Solana-gif-share-frontend
+the smart contract code : https://github.com/WaterlessPiano2/Solana-gif-share-smart-contract/tree/master
 
 ## Running React on Repl.it
 
