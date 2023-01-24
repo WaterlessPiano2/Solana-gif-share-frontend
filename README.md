@@ -1,4 +1,4 @@
-# Solana-gif-share-smart-contract
+# Solana-gif-share-smart-frontend
 
 Demo : https://gif-portal-starter-project.waterlesspiano2.repl.co/
 
